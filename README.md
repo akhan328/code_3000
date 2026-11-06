@@ -1,4 +1,7 @@
 # code_3000
+
+A short personal statement related to my views on ethics (homework 9): My views on ethics is that most ethics statements, specifically related to companies, don't change much. Ethics should actually change how people act/what they do instead of being vague statements. Like the chapter says, it should commit putting values into effect.
+
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
 _Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
